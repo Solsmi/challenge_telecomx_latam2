@@ -1,4 +1,4 @@
-# 📑 README del Proyecto: Predicción de Churn en TelecomX
+# Predicción de Churn en TelecomX
 
 Este proyecto de análisis de datos y machine learning se centra en desarrollar modelos predictivos para identificar clientes de TelecomX con alta probabilidad de cancelar sus servicios (`Churn`), con el fin de implementar estrategias de retención proactivas.
 
